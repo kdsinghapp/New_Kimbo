@@ -92,7 +92,6 @@ const App = () => {
         method: 'POST',
         body: formData,
       });
-      const json = await response.json();
 
       const newItem = {
         id: Date.now().toString(),

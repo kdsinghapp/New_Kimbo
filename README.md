@@ -2,7 +2,20 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+<!-- npx create-expo-app MyApp -->
+
+
+<!-- npm install -g expo-cli -->
+<!-- npx expo start -->
+
 <!-- npx expo start -c -->
+
+<!-- npx expo prebuild   android and ios get the folder -->
+
+<!-- npx expo run:android -->
+
+
+
 ## Get started
 
 1. Install dependencies
